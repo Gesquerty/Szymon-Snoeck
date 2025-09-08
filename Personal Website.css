@@ -53,8 +53,16 @@ h1{
 
 .Main-Text {
         padding-top: 5vh;
-        font-size: 2vh
+        font-size: 2vh;
 
+}
+
+.bigger-text {
+        font-size: 2.2vh;
+}
+
+.light-text {
+        color: #5c4626;
 }
 
 .Main {
@@ -69,7 +77,7 @@ h1{
         align-items: center;
 }
 
-.meSmall{
+.meSmall {
         display:none;
         font-size: 3vh;
         text-align: center;
@@ -80,7 +88,7 @@ h1{
         .meSmall{display: block;}
 }
 
-.Profile{
+.Profile {
         width: 17vw;
         /*right: 30%;*/
         padding: 2vw
@@ -95,6 +103,8 @@ h1{
         /*width: 70vw;*/
         margin: auto;
 }
+
+
 
 body {
         /* border: 3px solid #deb887; */
